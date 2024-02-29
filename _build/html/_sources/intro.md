@@ -1,4 +1,4 @@
-# Welcome to GeoAI
+# Welcome to  GeoAI
 
 In this series, we'll be taking a look at Artificial Intelligence as it applies to Geographic data on macOS.
 
